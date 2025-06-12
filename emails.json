@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "sender": "recruiter@aerovect.ai",
+    "subject": "Interview Invitation for Software Engineer - MLOps",
+    "body": "We are excited to invite you for a technical interview with AeroVect. It is scheduled for June 15, 2025 at 2:00 PM CST. Please confirm your availability.",
+    "timestamp": "2025-06-10T10:12:00Z"
+  },
+  {
+    "id": "2",
+    "sender": "no-reply@codility.com",
+    "subject": "Complete your coding assessment for Path AI",
+    "body": "You have been shortlisted by Path AI for the Machine Learning position. Please complete the Codility assessment by June 14, 2025.",
+    "timestamp": "2025-06-10T12:34:00Z"
+  },
+  {
+    "id": "3",
+    "sender": "hiring@notion.so",
+    "subject": "Interview Follow-up and Next Steps",
+    "body": "Thank you for speaking with us! We'll get back to you about the next steps within a week. Let us know if you have questions.",
+    "timestamp": "2025-06-11T08:50:00Z"
+  },
+  {
+    "id": "4",
+    "sender": "hr@openai.com",
+    "subject": "OpenAI Assessment Deadline Reminder",
+    "body": "Just a reminder: your take-home project is due June 13, 2025. Reach out if you need an extension.",
+    "timestamp": "2025-06-09T18:15:00Z"
+  },
+  {
+    "id": "5",
+    "sender": "recruiter@stripe.com",
+    "subject": "Stripe Onsite Interview Schedule",
+    "body": "You have 4 rounds scheduled for June 20, 2025. We'll send you the Zoom links 24 hours in advance.",
+    "timestamp": "2025-06-10T15:22:00Z"
+  },
+  {
+    "id": "6",
+    "sender": "talent@figma.com",
+    "subject": "Thank You – Figma Final Round",
+    "body": "Thank you for your time! We appreciated learning about your background. Expect an update by June 18, 2025.",
+    "timestamp": "2025-06-11T17:41:00Z"
+  },
+  {
+    "id": "7",
+    "sender": "recruiting@asana.com",
+    "subject": "Schedule your phone screen with Asana",
+    "body": "Use this Calendly link to book a time for your first-round call: https://calendly.com/asana-recruiter",
+    "timestamp": "2025-06-10T14:00:00Z"
+  },
+  {
+    "id": "8",
+    "sender": "noreply@google.com",
+    "subject": "Reminder: Google Interview Prep Resources",
+    "body": "Here are your resources for the Google interview. Review system design and behavioral questions before your interview on June 19, 2025.",
+    "timestamp": "2025-06-10T16:18:00Z"
+  },
+  {
+    "id": "9",
+    "sender": "recruiting@meta.com",
+    "subject": "Final Interview – Feedback Request",
+    "body": "We hope the Meta interview went well! We’d love to hear your feedback. Please complete this short survey.",
+    "timestamp": "2025-06-11T11:30:00Z"
+  },
+  {
+    "id": "10",
+    "sender": "team@interviewbuddy.io",
+    "subject": "Practice Interview Feedback",
+    "body": "Here’s your feedback from the mock interview: Great answers, but consider structuring your STAR responses better.",
+    "timestamp": "2025-06-11T20:00:00Z"
+  },
+  {
+    "id": "11",
+    "sender": "recruiting@deepmind.com",
+    "subject": "Update on Your DeepMind Application",
+    "body": "Thank you for taking the time to interview with us. After careful consideration, we've decided not to move forward at this time. We appreciate your interest.",
+    "timestamp": "2025-06-12T08:00:00Z"
+  },
+  {
+    "id": "12",
+    "sender": "careers@adobe.com",
+    "subject": "Thanks for Applying – No Interview",
+    "body": "Thank you for applying to the Research Scientist role at Adobe. While your background is impressive, we will not be moving forward with your application at this time.",
+    "timestamp": "2025-06-12T09:30:00Z"
+  }
+]
